@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README will cover the steps I am taking to create my own personal website. This website will give a glimps into my life, my achievements, my qualifications, my interests and hobbies!
 
-Things you may want to cover:
+The website itself covers:
 
-* Ruby version
+* Ruby & Rails and HTML coding
 
 * System dependencies
 
